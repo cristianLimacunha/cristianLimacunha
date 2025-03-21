@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/aced79e7-fe1d-40fa-8f73-91e6b36b59d9
+![Image](https://github.com/user-attachments/assets/a642c66c-fc94-4834-8147-9baa67e4dc0f)
 
 <h2 align="left">Olá! eu Sou Cristian Lima, Estudante Front-end e UX/Design</h2>
 
